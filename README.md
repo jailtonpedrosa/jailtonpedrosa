@@ -1,7 +1,4 @@
-### Hi there 👋
-
-
-**jailtonpedrosa/jailtonpedrosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Oi, Meu nome é ✨ Jailton Pedrosa ✨ 👋
 
 Here are some ideas to get you started:
 
