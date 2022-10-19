@@ -17,4 +17,4 @@
 #
 
 
-![snake gif](https://github.com/jailtonpedrosa/jailtonpedrosa/blob/main/.github/workflows/cobrinha.yml)
+![snake gif](https://github.com/jailtonpedrosa/jailtonpedrosa/blob/output/github-contribution-grid-snake.svg)
