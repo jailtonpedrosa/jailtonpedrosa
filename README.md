@@ -2,7 +2,9 @@
 
 - 🔭 Hoje trabalho na área de análise e desenvolvimento de software.
 - 💻 Analista Desenvolvedor Delphi com 12 anos de experiência.
-- 🌱 Atualmente estou estudando Python desenvolvimento de sistemas, análise de dados, automação e aprendizagem de máquina.
+- 🐍 Analista Desenvolvedor Python
+- 💻 Analista Desenvolvedor C#
+- 👨‍🔬 Cientista de dados
 - 📫 Email para contato: jailtonpedrosa.rez@gmail.com
 
 <div align="center">
