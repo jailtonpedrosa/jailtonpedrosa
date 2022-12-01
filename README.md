@@ -3,7 +3,6 @@
 - 🔭 Hoje trabalho na área de análise e desenvolvimento de software.
 - 💻 Analista Desenvolvedor Delphi com 12 anos de experiência.
 - 🐍 Analista Desenvolvedor Python
-- 💻 Analista Desenvolvedor C#
 - 👨‍🔬 Cientista de dados
 - 🎨 Designer Gráfico
 - 📫 Email para contato: jailtonpedrosa.rez@gmail.com
