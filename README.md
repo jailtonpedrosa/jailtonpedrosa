@@ -1,6 +1,6 @@
 ### Oi, Meu nome é Jailton Pedrosa 👋
 
-- 🔭 Hoje trabalho na área de análise e desenvolvimento de software.
+- 🔭 Hoje trabalho na área de análise e desenvolvimento de sistemas.
 - 💻 Desenvolvedor de software sênior com 16 anos de experiência.
 - 🚀 Tecnologias Python | FastAPI | Django | Delphi | Golang
 - 📫 Email para contato: jailtonpedrosa.rez@gmail.com
@@ -12,12 +12,10 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" height"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img align="center" height"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />  
-  <img align="center" height"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center" height"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
-  <img align="center" height"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
-  <img align="center" height"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
-  <img align="center" height"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />  
+  <img align="center" height"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"/>          
+  <img align="center" height"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg"/>
+  <img align="center" height"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/delphi/delphi-original.svg"/>
+  <img align="center" height"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"/>          
 </div>
 
 #
