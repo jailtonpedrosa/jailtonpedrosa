@@ -1,9 +1,8 @@
 ### Oi, Meu nome é Jailton Pedrosa 👋
 
 - 🔭 Hoje trabalho na área de análise e desenvolvimento de software.
-- 💻 Desenvolvedor de software sênior com 14 anos de experiência.
-- 🚀 Tecnologias Java | Spring | Python | Django | Delphi
-- 🎨 Designer Gráfico
+- 💻 Desenvolvedor de software sênior com 16 anos de experiência.
+- 🚀 Tecnologias Python | FastAPI | Django | Delphi | Golang
 - 📫 Email para contato: jailtonpedrosa.rez@gmail.com
 
 <div align="center">
